@@ -12,7 +12,7 @@ const server = http.createServer((req, res) => { // Cria o servidor; req = requi
 
     res.setHeader("Content-Type", "text/plain"); // Define o tipo do conteúdo que será enviado como texto simples
 
-    res.end("Ola mundo \n meu primeiro script!!!"); // Envia a resposta para o navegador e encerra a requisição
+    res.end("Ola mundo \n meu primeiro script!"); // Envia a resposta para o navegador e encerra a requisição
 
 });
 

@@ -1,0 +1,36 @@
+{
+  "name": "node-cursos",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "homepage": "https://github.com/Rogerio-Gonzaga-84/cursos_nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/Rogerio-Gonzaga-84/cursos_nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rogerio-Gonzaga-84/cursos_nodejs.git"
+  },
+  "license": "MIT",
+  "author": "rogerio_gonzaga",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "devDependencies": {}
+}
